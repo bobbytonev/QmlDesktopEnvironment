@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BottomPanel.qml</file>
+        <file>Apps-15.png</file>
+        <file>Back-15.png</file>
+        <file>Home-35.png</file>
+        <file>RecentApps.qml</file>
+        <file>AnimationButton.qml</file>
+		<file>bg.png</file>
+        <file>Program.qml</file>
+        <file>destroy.png</file>
+		<file>Apps.qml</file>
+		<file>LauncherSettings.qml</file>
+		<file>IconSize-page.qml</file>
+        <file>ImageFillMode-page.qml</file>
+        <file>ImageHorizontalAlignment-page.qml</file>
+        <file>ImageVerticalAlignment-page.qml</file>
+		<file>TopPanelPopup.qml</file>
+		<file>TopPanel.qml</file>
+		<file>QuickToggle.qml</file>
+		<file>Navigation.png</file>
+		<file>Theme.png</file>
+		<file>Wi-Fi.png</file>
+		<file>Bluetooth.png</file>
+		<file>Appearance.png</file>
+		<file>Settings.png</file>
+    </qresource>
+</RCC>
